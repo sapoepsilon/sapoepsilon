@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sapoepsilon
 - 👀 I’m interested in Mobile Debelopment
-- 🌱 I’m currently learning SwiftUI, Unity, Jetpack Compose
+- 🌱 SwiftUI, and JetPack Compose, and UIKIT, and Unreal Engine
 - 💞️ I’m looking to collaborate on Mobile game development, and app development
 - 📫 Reach me here: ismatullamansurov@gmail.com
 
