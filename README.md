@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sapoepsilon
-- 👀 I’m interested in Mobile Debelopment
+- 👀 I’m interested in Mobile Development
 - 🌱 HMU with any projects based on these: SwiftUI, JetPack Compose, UIKIT, and Unreal Engine
 - 💞️ I’m looking to collaborate on Mobile game development, and app development
 - 📫 Reach me here: ismatullamansurov@gmail.com
